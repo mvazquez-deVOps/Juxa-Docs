@@ -1,3 +1,7 @@
+---
+layout: default
+title: Cumplimiento
+---
 ## Infraestructura Global y Certificaciones (Google Cloud)
 
 JUXA IA se ejecuta sobre la infraestructura de **Google Cloud Platform (GCP)** en la región `us-central1`, lo que nos permite heredar un marco de seguridad de nivel bancario y cumplimiento internacional.

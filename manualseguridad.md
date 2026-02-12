@@ -1,3 +1,7 @@
+---
+layout: default
+title: Manual de Seguridad
+---
 ## Arquitectura de Seguridad
 
 Nuestra infraestructura está diseñada bajo el principio de **Privacidad por Diseño**, asegurando que cada interacción legal esté protegida por múltiples capas de seguridad.

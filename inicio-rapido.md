@@ -1,3 +1,7 @@
+---
+layout: default
+title: Inicio Rápido
+---
 # Manual de Seguridad y Protección de Datos - JUXA IA
 **Versión:** 1.3.0 | **Estatus:** Cumplimiento UE (GDPR) y México (LFPDPPP) 2026
 
