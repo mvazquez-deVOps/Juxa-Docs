@@ -1,5 +1,6 @@
-title: JUXA IA - Seguridad y Privacidad
+title: JUXA AI - Seguridad y Privacidad
 description: Manual técnico de protección de datos y cumplimiento normativo.
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
