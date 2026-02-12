@@ -1,4 +1,4 @@
-# Centro de Documentación JUXA IA
+# Centro de Documentación JUXA AI
 
 Bienvenido a la documentación oficial. Aquí gestionamos la transparencia técnica y legal de nuestra IA.
 
